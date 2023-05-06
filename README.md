@@ -4,4 +4,7 @@ My first repo uploading from git
 checking github editing
 
 
-changin again
+changing again
+
+pushing this file from local macheine using push origin
+
