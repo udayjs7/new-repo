@@ -1,5 +1,7 @@
 # new-repo
 HAHAHAHAHAHHAHAHAHHAHAHHAHAHAHAHHAAHHAHAHHA
+
+bnjabfhsdbfdsjjfbhdsc
 My first repo uploading from git 
 
 checking github editing
